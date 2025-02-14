@@ -1,5 +1,7 @@
 # Drone Motor Anomaly Detection Visualization
 
+![alt text](https://github.com/Jared-Kirschbaum/time-series-anomaly-detection/blob/main/fig.png)
+
 ## Overview
 
 This project simulates time series data for four drone motors over a period of 5 years, applies anomaly detection using a rolling average and Z-score method, and creates interactive visualizations with Plotly. The resulting dashboard is saved as an HTML file that you can view in any modern web browser.
