@@ -59,6 +59,8 @@ Open fig.html in your web browser to explore the interactive plots.
 
 Project Structure
 ```
+├── fig.html          # output .html file
+├── fig.png           # output .png file
 ├── time-series.py    # Main script
 ├── time-series.ipynb # testing notebook for examples.
 └── README.md         # Project documentation.
